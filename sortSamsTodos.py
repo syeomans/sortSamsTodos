@@ -3,7 +3,7 @@ aalice = {'x-api-user': "964a2bfe-35d2-4f8d-92bc-7cbb7e90dcc8", 'x-api-key': "1d
 sam = {'x-api-user': "7c7122d1-17d0-4585-b3b8-31fcb713682e", 'x-api-key': "97f83d3f-a5b7-4903-8a64-03c9f19752e9"}
 
 # Configs
-sortTags = ["Today", "School", "Priority 1", "Priority 2", "Priority 3", "Priority 4", "Priority 5"]
+sortTags = ["Today", "Work", "Priority 1", "Priority 2", "Priority 3", "Priority 4", "Priority 5"]
 
 # Gets from Habitica
 tasks = habotica.getTasks(sam)
